@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Program Files\PowerShell\7\pwsh.exe -nologo" />
+    <option name="myTabName" value="Powershell7" />
+  </component>
+</application>
