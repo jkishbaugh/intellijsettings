@@ -1,0 +1,15 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven_cebb3849backend958d4636clean">
+        <abbreviation name="mvnc" />
+      </action>
+      <action id="Maven_cebb3849backend958d4636package">
+        <abbreviation name="mvnp" />
+      </action>
+      <action id="Maven_cebb3849backend958d4636install">
+        <abbreviation name="mvni" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
